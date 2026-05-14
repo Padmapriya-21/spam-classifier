@@ -1,5 +1,7 @@
 i creafted a txt file readme and ppsrted this..
 # 📧 Spam Classifier ML Project
+LIVE DEMO LINK
+https://spam-classifier-j5ovvbequ4emgeq8r5f6yy.streamlit.app/
 
 ## 🚀 Overview
 This project detects whether a message is Spam or Not Spam using Machine Learning (Naive Bayes + TF-IDF).
